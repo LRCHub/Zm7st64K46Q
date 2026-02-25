@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Take Me to the Beach",
+  "base_artist": "Imagine Dragons",
+  "createdAt": "2026-02-25T14:12:07.725261Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Take Me To The Beach",
+      "artist": "ImagineDragons",
+      "has_synced": true,
+      "path": "select/01_Take_Me_To_The_Beach_ImagineDragons.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Take Me to the Beach",
+      "artist": "ImagineDragons",
+      "has_synced": true,
+      "path": "select/02_Take_Me_to_the_Beach_ImagineDragons.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Take Me to the Beach",
+      "artist": "Imagine Dragons",
+      "has_synced": true,
+      "path": "select/03_Take_Me_to_the_Beach_Imagine_Dragons.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Take Me to the Beach",
+      "artist": "Imagine Dragons",
+      "has_synced": true,
+      "path": "select/04_Take_Me_to_the_Beach_Imagine_Dragons.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Take Me to the Beach",
+      "artist": "Imagine Dragons",
+      "has_synced": true,
+      "path": "select/05_Take_Me_to_the_Beach_Imagine_Dragons.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Take Me to the Beach (feat. Jungeli)",
+      "artist": "ImagineDragonsVEVO",
+      "has_synced": true,
+      "path": "select/06_Take_Me_to_the_Beach_(feat._Jungeli)_ImagineDragonsVEVO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Take Me to the Beach",
+      "artist": "Imagine Dragons",
+      "has_synced": true,
+      "path": "select/07_Take_Me_to_the_Beach_Imagine_Dragons.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Take Me to the Beach (feat. Ado)",
+      "artist": "ImagineDragonsVEVO",
+      "has_synced": true,
+      "path": "select/08_Take_Me_to_the_Beach_(feat._Ado)_ImagineDragonsVEVO.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Take Me To The Beach",
+      "artist": "Imagine Dragons, Ado",
+      "has_synced": true,
+      "path": "select/09_Take_Me_To_The_Beach_Imagine_Dragons,_Ado.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Take Me to the Beach (feat. Ernia)",
+      "artist": "Imagine Dragons",
+      "has_synced": true,
+      "path": "select/10_Take_Me_to_the_Beach_(feat._Ernia)_Imagine_Dragons.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Take Me to the Beach (feat. Ado)",
+      "artist": "Imagine Dragons",
+      "has_synced": true,
+      "path": "select/11_Take_Me_to_the_Beach_(feat._Ado)_Imagine_Dragons.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Take Me To The Beach (feat. Ado)",
+      "artist": "Imagine Dragons",
+      "has_synced": true,
+      "path": "select/12_Take_Me_To_The_Beach_(feat._Ado)_Imagine_Dragons.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Take Me To The Beach (feat. Ernia)",
+      "artist": "Imagine Dragons",
+      "has_synced": true,
+      "path": "select/13_Take_Me_To_The_Beach_(feat._Ernia)_Imagine_Dragons.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Take Me to the Beach",
+      "artist": "Imagine Dragons, Ado",
+      "has_synced": true,
+      "path": "select/14_Take_Me_to_the_Beach_Imagine_Dragons,_Ado.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Take Me To The Beach (Official Lyric Video)",
+      "artist": "Imagine Dragons",
+      "has_synced": true,
+      "path": "select/15_Take_Me_To_The_Beach_(Official_Lyric_Video)_Imagine_Dragons.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Take Me To The Beach (Official Lyric Video)",
+      "artist": "Imagine Dragons",
+      "has_synced": true,
+      "path": "select/16_Take_Me_To_The_Beach_(Official_Lyric_Video)_Imagine_Dragons.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Take Me to the Beach",
+      "artist": "Imagine Dragons",
+      "has_synced": false,
+      "path": "select/pl_01_Take_Me_to_the_Beach_Imagine_Dragons.txt"
+    }
+  ]
+}
